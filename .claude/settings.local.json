@@ -1,6 +1,10 @@
 {
   "permissions": {
     "allow": [
+      "mcp__Notion",
+      "mcp__Notion__*",
+      "mcp__Google_Calendar",
+      "mcp__Google_Calendar__*",
       "mcp__Notion__notion-update-page",
       "mcp__Notion__notion-create-pages",
       "mcp__Notion__notion-update-data-source",
